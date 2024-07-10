@@ -69,6 +69,18 @@ body p{
     letter-spacing: 1px;
 }
 
+#Item-btn{
+    /* This is the Button Of Second Section and HTML Lines 54, 69,79 */
+  padding: 10px 50px;
+  background-color: transparent;
+  border: 2px solid gray;
+  color: #000000a1;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
 /* Button Area ENds  */
 
 
@@ -111,8 +123,8 @@ nav{
 .Web-devSection{
     height: 100%;
     width: 70%;
-    border: 1px solid rebeccapurple;
     margin: 0 auto;
+    padding: 40px 0;
 }
 .headlineArea{
     /* Top Head Line area and Peragraph */
@@ -139,11 +151,16 @@ nav{
 
 /* Why Web Development Section Ends Here */
 
+/* Inspiration-Section {html Code number 93} */
 
-
-
-
-
+.Inspiration-Section{
+    height: auto;
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 40px 0;
+}
+/* Inspiration Section Is Ends Here */
 
 
 
