@@ -33,7 +33,7 @@ a{
     color: black;
 }
 body p{
-    font-size: 18px;
+    font-size: 17px;
     line-height: 28px;
 }
 /*///////////////////// Global Css ENDS ///////////////////////*/
@@ -163,13 +163,6 @@ nav{
 /* Inspiration Section Is Ends Here */
 
 
-
-
-
-
-
-
-
 /* My Current Section Starts  */
 
 .Current-main-section{
@@ -206,3 +199,22 @@ nav{
 
 
 /* My Current Secction Ends Here */
+
+
+/* Support Section Starts Here //CAll to Action  */
+.Call-to-action{
+    height: 340px;
+    width: 70%;
+    padding: 20px 0;
+    margin: 0 auto;
+    color: white;
+    border-radius: 15px;
+    background-color: #00000054;
+    background-image: url("/img/handshake.jpg");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-blend-mode: overlay;
+    text-align: center;
+    align-content: center;
+}
