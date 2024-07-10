@@ -234,3 +234,27 @@ nav{
     outline: none;
     margin: 10px 0;
 }
+/* Call To Action ENDS here */
+
+/* Footer Starts here {HTML Code 161} */
+
+footer{
+    height: 100px;
+    width: 100%;
+    background-color: rgb(247, 248, 248);
+    margin-top: 30px;
+}
+main{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.Footer-Left{
+    margin-top: 25px;
+    font-weight: 600;
+}
+.Footer-right{
+    margin-top: 25px;
+}
+
+/* Footer ENDS HERE */
