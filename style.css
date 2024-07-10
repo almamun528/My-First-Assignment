@@ -13,7 +13,9 @@
     padding: 0;
     box-sizing: border-box;
 }
-
+.Flex{
+    display: flex;
+}
 /* Basic Tags  Start */
 body h1{
     font-size: 38px;
@@ -104,7 +106,38 @@ nav{
 /* Hero Section Ends Here */
 
 
+/* Why Web Development Section Starts Here  {html 39 Start}*/
 
+.Web-devSection{
+    height: 100%;
+    width: 70%;
+    border: 1px solid rebeccapurple;
+    margin: 0 auto;
+}
+.headlineArea{
+    /* Top Head Line area and Peragraph */
+    text-align: center;
+    padding: 20px 40px;
+}
+
+/* Items Styles  */
+.MainThreeItems{
+    width: 90%;
+    margin: 0 auto;
+
+}
+.firstItem{
+    padding: 20px 0px;
+}
+.firstitem-leftArea{
+    width: 60%;
+}
+.FirstItem-right{
+    width: 40%;
+}
+
+
+/* Why Web Development Section Ends Here */
 
 
 
