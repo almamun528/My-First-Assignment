@@ -219,7 +219,7 @@ nav{
     color: white;
     border-radius: 15px;
     background-color: #00000054;
-    background-image: url("/img/handshake.jpg");
+    background-image: url("./img/handshake.jpg");
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
