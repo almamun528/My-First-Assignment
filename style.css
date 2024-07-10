@@ -23,9 +23,16 @@ body h2{
     font-size: 32px;
     font-weight: 700;
 }
-
+body h3{
+    font: 24px;
+    font: 600;
+}
+a{
+    color: black;
+}
 body p{
     font-size: 18px;
+    line-height: 28px;
 }
 /*///////////////////// Global Css ENDS ///////////////////////*/
 
@@ -95,3 +102,57 @@ nav{
     line-height: 30px;
 }
 /* Hero Section Ends Here */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* My Current Section Starts  */
+
+.Current-main-section{
+    height: 500px;
+    width: 80%;
+    margin: 40px auto;
+}
+
+.top-area{
+    text-align: center;
+}
+.top-area p{
+    line-height: 30px;
+    margin: 20px 10px;
+}
+
+.target-items{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.target-items h3,p,a{
+    margin: 10px 0px;
+}
+.CommonStyleForItems {
+    /* three box, html,css and Js common style */
+    height: 340px;
+    width: 33%;
+    margin: 10px;
+    padding: 10px 15px 0px 30px;
+    border-radius: 15px;
+}
+
+
+/* My Current Secction Ends Here */
